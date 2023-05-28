@@ -10,6 +10,13 @@ UID:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 SUMMARY:Airbnb (Not available)
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230901
+UID:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SUMMARY:Airbnb (Not available)
+END:VEVENT
+
 
 
 END:VCALENDAR
