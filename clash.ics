@@ -3,32 +3,6 @@ PRODID;X-RICAL-TZSOURCE=TZINFO:-//Airbnb Inc//Hosting Calendar 0.8.8//EN
 CALSCALE:GREGORIAN
 VERSION:2.0
 
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230101
-DTEND;VALUE=DATE:20230201
-UID:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-SUMMARY:Airbnb (Not available)
-END:VEVENT
 
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230801
-DTEND;VALUE=DATE:20230901
-UID:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-SUMMARY:Airbnb (Not available)
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230701
-DTEND;VALUE=DATE:20230801
-UID:yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-SUMMARY:Airbnb (Not available)
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230201
-DTEND;VALUE=DATE:20230801
-UID:zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-SUMMARY:Airbnb (Not available)
-END:VEVENT
 
 END:VCALENDAR
